@@ -34,5 +34,5 @@ No Jenkins
 1. Clique em "Github Authentication Plugin"
 1. Preencha os dados conforme informações do passo anterior (No GitHub)
 
-!(https://jenkins.io/images/solution-images/jenkins-github-oauth-enable.png)
+![](https://jenkins.io/images/solution-images/jenkins-github-oauth-enable.png)
 
