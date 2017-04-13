@@ -20,6 +20,7 @@ Informações gerais podem ser obtidas em:
  
  Resumindo,
  
-* Visite https://github.com/settings/applications/new para registrar uma nova aplicação.
-* Os valores para "application name", "homepage URL" e "application description" não importam. Podem ser customizados como desejado They can be customized however.
-* Entretanto, a url do retorno de autorização (authorization callback URL) deve ter um valor específico. Ela deve parecer com https://jenkins.example.com/securityRealm/finishLogin onde jenkins.example.com é a localização do seu servidor jenkins.
+1. Visite https://github.com/settings/applications/new para registrar uma nova aplicação.
+1. Os valores para "application name", "homepage URL" e "application description" não importam. Podem ser customizados como desejado They can be customized however.
+1. Entretanto, a url do retorno de autorização (authorization callback URL) deve ter um valor específico. Ela deve parecer com https://jenkins.example.com/securityRealm/finishLogin onde jenkins.example.com é a localização do seu servidor jenkins.
+1. Finalize clicando em "Register application".
